@@ -25,4 +25,4 @@ X Button: Jump
 
 R Button: Run
 
-If you like Unuty and you know how to do decomps/ports, you can help me whit the code talking whit me in discord: SpanishFreddy#6380
+If you like Unity and you know how to do decomps/ports, you can help me whit the code talking whit me in discord: SpanishFreddy#6380
